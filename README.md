@@ -50,7 +50,7 @@ It explores how factors such as sleep hours, academic pressure, and study hours 
 
 ## 📸 Dashboard Preview
 
-![Dashboard](dashboard image.png)
+![Dashboard](dashboard.png)
 
 ---
 
